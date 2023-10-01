@@ -1,0 +1,2 @@
+Introduction file
+outline of the project-To create mobile App that helps the users if they have any outstanding fines by taking photo of number plate.
